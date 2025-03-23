@@ -17,6 +17,6 @@ class TheUniquesub{
     public static void main(String[] args) {
         HashSet <String> seet=new HashSet<>();
         PrinttheSet("aaabc", 0,"", seet);
-    }p
+    }
 }
         

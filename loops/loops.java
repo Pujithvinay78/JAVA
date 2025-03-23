@@ -8,10 +8,10 @@ class loops{
         // }
 
     do { 
+        System.out.println("hi");
         a++;
-        System.out.println(a);
 
-    } while (a<10);
+    } while (a==1);
 
     }
 }

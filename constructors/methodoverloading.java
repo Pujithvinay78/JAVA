@@ -1,5 +1,5 @@
 
-class overloading{
+class methodoverloading{
 
     int add(int a,int b){
         return a+b;
@@ -9,7 +9,7 @@ class overloading{
         return a+b+c+d;
     }
     public static void main(String[] args) {
-        overloading obj=new overloading();
+        methodoverloading obj=new methodoverloading();
         System.out.println("The first one is "+obj.add(12, 4));
         System.out.println("the second one is"+obj.add(15, 2, 43, 234));
             }
